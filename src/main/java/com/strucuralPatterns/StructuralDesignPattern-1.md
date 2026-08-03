@@ -40,5 +40,7 @@ Creational ile Kıyaslama (Farkı Netleştirmek İçin)
 Creational: "Bu nesneyi nasıl oluşturayım?" (Singleton, Factory, Builder...)
 Structural: "Elimde zaten olan nesneleri nasıl bir araya getireyim/organize edeyim?" (Adapter, Decorator, Facade...)
 
+
+
 Yani creational pattern'ler bittiğinde elinde nesneler var; structural pattern'ler ise bu nesnelerin birbiriyle nasıl bir yapı kurduğuyla ilgilenir.
 
